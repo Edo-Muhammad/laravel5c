@@ -320,7 +320,7 @@ Berikut adalah contoh data awal yang akan di-*seed* ke dalam database untuk memu
 | **Started** | 2026-10-06 |
 | **Completed** | - |
 | **Branch** | `feature/database-design` |
-| **Pull request** | https://github.com/mirzayogy/laravel5d/pull/ (add PR number after it is created) |
+| **Pull request** | https://github.com/mirzayogy/laravel5d/pull/23 |
 
 ### Goal
 
